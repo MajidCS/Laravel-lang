@@ -125,7 +125,7 @@ return [
         "hour" => "ساعة",
         "minute" => "دقيقة",
         "second" => "ثانية",
-        "title" => "اللقب",
+        "title" => "العنوان",
         "content" => "المُحتوى",
         "description" => "الوصف",
         "excerpt" => "المُلخص",
